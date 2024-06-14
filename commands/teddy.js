@@ -5,7 +5,7 @@ const {
 
 smd({
     cmdname: "teddy",    
-    type: "fun",    
+    type: "general",    
     info: "cute teddy",   
     on: "text" ,
     filename: __filename,
