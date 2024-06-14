@@ -1,6 +1,6 @@
 const { smd, sleep } = require('../lib');
 
-smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename }, async (citel) => {
+smd({ cmdname: "hack", type: "general", info: "hacking prank", filename: __filename }, async (citel) => {
   const messages = [
     "Injecting Malware",
     " █ 10%",
