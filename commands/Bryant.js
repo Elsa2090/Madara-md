@@ -4,7 +4,7 @@ const {
   getBuffer
 } = require("../lib/");
 pnix({
-  'pattern': 'Bryant',
+  'pattern': 'alive2',
   'fromMe': isPrivate,
   'type': 'main'
 }, async (_0x3eb68d, _0x3be952) => {
