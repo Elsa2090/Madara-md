@@ -1,6 +1,6 @@
 {
     "_JSON_": true,
-    "AUTHOR": "SamPandey001",
+    "AUTHOR": "Bryanttech",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -10,11 +10,11 @@
     "UPDATED_LOCAL": "Fresh Updates Installed!"
     },
     "global": {
-    "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 STAR-MD",
+    "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 Madara-MD",
     
     "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
     "greet2" : "Buddy",
-    "pic1": "https://i.ibb.co/k2b17yw/Excel-Amped-Logo.png",
+    "pic1": "https://telegra.ph/file/87d45818751986be467da.png",
     "pic2": "https://i.ibb.co/kXg3fcc/29aa7638421425-56068d2367bcd-3.jpg",
     "pic3": "https://i.ibb.co/ykmMdyH/s-l1600.jpg",
     "pic4": "https://i.ibb.co/g4MTjsG/Socialthumb.jpg",
@@ -30,7 +30,7 @@
     "gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
     "greet" : "Hi, There",
     "dotbody" : "Stop me if you can.",
-    "promote": "A new worthy STAR arrived",
+    "promote": "A new worthy Shinobi arrived",
     "pmallow": "Hii,This is Gohan\n*Father is Finding Dragon Balls.*\n seems like he is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
     "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 STAR_",
     "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 STAR*",
