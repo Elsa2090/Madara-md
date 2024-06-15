@@ -9,14 +9,14 @@ const audiovn = "./start.mp3";
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "Madara-md",
+        fileName: "Huncho-md",
 
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "Hi human, I hace activatd my sharingan",
-          body: Madara BOT",
-          thumbnailUrl: "https://telegra.ph/file/91bec9391bc250ea9db29.png",
+          title: "Hi human, I am on run",
+          body: "HUNCHO BOT",
+          thumbnailUrl: "https://telegra.ph/file/e18441d126f37be8efbfa.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
