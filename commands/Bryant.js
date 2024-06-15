@@ -4,14 +4,14 @@ const {
   getBuffer
 } = require("../lib/");
 pnix({
-  'pattern': 'alive',
+  'pattern': 'Bryant',
   'fromMe': isPrivate,
   'type': 'main'
 }, async (_0x3eb68d, _0x3be952) => {
   const _0x554062 = await getBuffer("https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg");
   const _0x19f988 = {
-    'title': "I'm Alive Now",
-    'body': "Huncho-𝙼𝙳",
+    'title': "The onwner isnt available now",
+    'body': "Madara-𝙼𝙳",
     'thumbnail': _0x554062,
     'mediaType': 0x1,
     'mediaUrl': "https://i.imgur.com/6jdTPZz.mp4",
