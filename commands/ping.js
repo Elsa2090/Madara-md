@@ -30,7 +30,7 @@ const { default: axios } = require('axios');
 france({ nomCom: 'ping',
     desc: 'To check ping',
     Categorie: 'General',
-    reaction: '👁', 
+    reaction: '🛸', 
     fromMe: 'true', 
 
        
