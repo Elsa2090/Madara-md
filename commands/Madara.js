@@ -4,9 +4,9 @@ const { france } = require("../framework/france");
 france({ nomCom: "shan", reaction: "😈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = '𝐒𝚮𝚫𝚪𝚰𝚴𝐆𝚫𝚴 𝚫𝐂𝚻𝚰𝛁𝚫𝚻𝚵𝐃 \n\n ' + "║❒ 𝐓𝐘𝐏𝐄 𝐌𝐄𝐍𝐔 𝐓𝐎 𝐒𝐄𝐄 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒";
-    let d = '                                            ║❒ 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 https://t.me/+H2CcYqSn6zFhZTM0';
+    let d = '                                            ║❒ 𝐅𝚯𝐋𝐋𝚯𝐖 𝚳𝐘 𝐂𝚮𝚫𝚴𝚴𝚵𝐋 https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/388c8f5c23b4e7662ebfb.mp4';
+    var img = 'https://telegra.ph/file/d0276402e66107c692751.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
