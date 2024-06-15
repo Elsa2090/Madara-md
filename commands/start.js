@@ -14,9 +14,9 @@ const audiovn = "./start.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "Hi human, I am on run",
-          body: "HUNCHO BOT",
-          thumbnailUrl: "https://telegra.ph/file/e18441d126f37be8efbfa.jpg",
+          title: "Hi human, I have activated my sharingan",
+          body: MADARA BOT",
+          thumbnailUrl: "https://telegra.ph/file/234811e25f5e4e7f72b10.mp4",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
