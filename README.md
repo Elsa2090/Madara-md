@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://madara-md0ueh-4b6fb017a1da.herokuapp.com/) OR [`QR SCANNER 2`](https://madara-md0ueh-4b6fb017a1da.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md0ueh-4b6fb017a1da.herokuapp.com/)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`QR SCANNER 2`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`PAIRING CODE 2`](https://sessionid1-e846e707a329.herokuapp.com/)***
 
 ## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
