@@ -9,6 +9,7 @@ france({ nomCom: "test", reaction: "⏳", nomFichier: __filename }, async (dest,
     var img = 'https://telegra.ph/file/6508bb4b5a54f1c358b95.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
+    ✅𝚩𝚯𝚻𝐒 𝚪𝚵𝚸𝚯= "https://github.com/Elsa2090/Madara-md"
 });
 console.log("mon test");
 /*module.exports.commande = () => {
