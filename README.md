@@ -1,4 +1,4 @@
-<h1 align="center"> 𝚻𝚮𝚵 𝚳𝚫𝐃𝚫𝚪𝚫 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
+1ign="center"> 𝚻𝚮𝚵 𝚳𝚫𝐃𝚫𝚪𝚫 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
 <p align="center">  
   
 ***
@@ -13,14 +13,14 @@
 <p align="center">
 <a href="https://github.com/BryantXtech1/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
 <a href="https://github.com/Elsa2090/Madara-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Elsa2090/Madara-md?&style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elsa2090/Madara-md?style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elsa2090/Madara-md?label=Watching&style=social"></a>
+<a href="https://github.com/Elsa2090/Madara-md/nork/members"><img te="rks" src="hps://img.shields.io/github/forks/Elsa2090/Madara-md?style=social"></a>
+<a href="https://github.com/Elsa2090/Madara-Md/watchers"><img title="Watching" src="http//img.shields.io/github/watch/Elsa2090/Madara-md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
+***1.`First STAR 🌟 This Repo ` And https://github.com/Bryanlover1en [`FORK`](https://github.com/Elsa2090/Madara-md) It***
 
 ***2.`Get Session ID` by [`SCANING QR 1`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`QR SCANNER 2`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`PAIRING CODE 2`](https://sessionid1-e846e707a329.herokuapp.com/)***
 
@@ -35,12 +35,12 @@
 **1. If You Don't Have An Account On Heroku**
     <br>
 <p align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/Create%20AccontNow-blue?style=for-te-badge&log=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Elsa2090/Madara-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Elsa2090/Madara-md"> <img src="https://github.com/Bryanlover1tps://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" heighttps://github.com/Bryanlover1="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/</a>
 
 
 ***
@@ -55,7 +55,7 @@
 **GET In Touch with The Owner**
 - <a href="https://instagram.com/Bryant_Tech.1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/233530729233"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="httpshttps://github.com/Bryanlover1https://github.com/Bryanlover1://wa.me/233530729233"><img titluthor" src="https://img.shields.io/badge/ON WHAThttps://github.com/Bryanlover1https://github.com/BryanloveSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
@@ -65,10 +65,7 @@ OR
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
   <a href="https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
-
-   
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" / 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### TO JOIN OUR WHATSAPP CHANNEL 
@@ -89,9 +86,6 @@ OR
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
-<br/> <div align="center">
-[![github](https://github.com/github.png?size=150)](https://github.com/Elsa2090)
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -109,6 +103,3 @@ Enjoy the diverse features of the *MADARA-MD*  to enhance your Whatsapp more enj
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## `OWNER` 
-<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT TECH"/></a>
-  
