@@ -5,24 +5,24 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+MADARA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
   </p>
-    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/8c00763a2653ddef7bff3.jpg">
+    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/55aa3542cb62696db1e43.png">
 <p align="center">
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md"><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Elsa2090/Madara-md"><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BryantXtech1?label=Followers&style=social"></a>
-<a href="https://github.com/BryantXtech1/Madara-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/BryantXtech1/Madara-md?&style=social"></a>
-<a href="https://github.com/BryantXtech1/Madara-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BryantXtech1/Madara-md?style=social"></a>
-<a href="https://github.com/BryantXtech1/Madara-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BryantXtech1/Madara-md?label=Watching&style=social"></a>
+<a href="https://github.com/Elsa2090/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
+<a href="https://github.com/Elaa2090/Madara-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Elsa2090/Madara-md?&style=social"></a>
+<a href="https://github.com/Elsa2090/Madara-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elsa2090/Madara-md?style=social"></a>
+<a href="https://github.com/Elsa2090/Madara-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elsa2090/Madara-md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/BryantXtech1/Madara-md) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`QR SCANNER 2`](https://madara-md-8b42001e1b3f.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md-8b42001e1b3f.herokuapp.com/)***
+***2.`Get Session ID` by [`SCANING QR 1`](.https://sessionid1-e846e707a329.herokuapp.com/) OR [`QR SCANNER 2`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`PAIRING CODE 2`](https://madara-md-8b42001e1b3f.herokuapp.com/)***
 
 ## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
@@ -39,7 +39,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BryantXtech1/Madara-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Elsa290/Madara-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -90,12 +90,12 @@ OR
 ## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
 
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/BryantXtech1)
+[![github](https://github.com/github.png?size=100)](https://github.com/Elsa2090)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=BryantXtech1&show_icons=true&theme=radical)](https://github.com/BryantXtech1)
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsa2090&show_icons=true&theme=radical)](https://github.com/Elsa2090)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -110,5 +110,5 @@ Enjoy the diverse features of the *MADARA-MD*  to enhance your Whatsapp more enj
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `OWNER` 
-<a href="https://github.com/BryantXtech1"><img src="https://github.com/BryantXtech1.png" width="250" height="250" alt="BRYANT TECH"/></a>
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT TECH"/></a>
   
