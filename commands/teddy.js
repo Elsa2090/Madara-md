@@ -5,8 +5,8 @@ const {
 
 smd({
     cmdname: "teddy",    
-    type: "general",    
-    info: "cute teddy",   
+    categorie: "general",    
+    desc: "cute teddy",   
     on: "text" ,
     filename: __filename,
 },async(citel,match , {smd}) => {
