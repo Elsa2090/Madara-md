@@ -22,9 +22,9 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`QR SCANNER 2`](https://sessionid1-e846e707a329.herokuapp.com/) OR [`PAIRING CODE 2`](https://sessionid1-e846e707a329.herokuapp.com/)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`QR SCANNER 2`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`PAIRING CODE 2`](https://replit.com/@isabell3206374/drex-session?v=1)***
 
-## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
+## RUN THE REPO WHEN YOU ENTER REPLIT
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
