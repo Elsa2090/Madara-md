@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Elsa2090/Madara-md) It***
 
-***2.`Get Session ID` by [`SCANING QR 1`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`QR SCANNER 2`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`PAIRING CODE 2`](https://replit.com/@isabell3206374/drex-session?v=1)***
+***2.`Get Session ID` by [`SCANING QR 1`](https://1de728d0-4624-4778-a48e-216ec127ea40-00-34o38y731o8aq.janeway.replit.dev/) OR [`QR SCANNER 2`](https://replit.com/@arcanedream77/IBRAHIM-V30KE?v=1) OR [`PAIRING CODE 2`](https://replit.com/@isabell3206374/drex-session?v=1)***
 
 ## RUN THE REPO WHEN YOU ENTER REPLIT
 
